@@ -20,7 +20,7 @@
 </p>
 <p>
   <strong>Read the full research paper</strong>
-  <a href="https://ieeexplore.ieee.org/abstract/document/10276163?casa_token=Ikpt8oee25wAAAAA:tQrygcGThvm6mqwuCj2z9otam6DRz_-vr_kKNvUsuEhmMPS8_M6ZGx2gfC_szTJPQpfg5RYVKA" target="_blank">here</a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10276163" target="_blank">here</a>
 </p>
 
 <hr>
